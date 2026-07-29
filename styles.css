@@ -23,12 +23,12 @@ form{
 }
 input{
 	border:1px solid #ccc;
-	border-radius:50px;
+	border-radius:5px;
 	padding:10px;
 }
 .btn{
 	background-color:#1877f2;
-	border-radius:50px;
+	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
 	color:white;
